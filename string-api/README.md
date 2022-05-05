@@ -8,5 +8,11 @@
 - If this string is empty or count is zero then the empty string is returned.
 - Throws: IllegalArgumentException – if the count is negative.
 
-## strip()
+## strip() :: string
 - return a string whose value is this string, with all leading and trailing white space removed
+- stripLeading()
+- stripTrailing()
+
+## isBlank() :: boolean
+
+## lines()
